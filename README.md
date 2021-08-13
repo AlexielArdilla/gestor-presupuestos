@@ -2,7 +2,7 @@
 
 ## Aquí seleccionas tu presupuesto semanal:
 
-![imagen de gestor](gestor1.jpg)
+![imagen de gestor](gestor12.jpg)
 
 ## Aquí agregas tus gastos:
 
