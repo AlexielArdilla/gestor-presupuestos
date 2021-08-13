@@ -1,4 +1,4 @@
-# Gestor de presupuestos semanales e React
+# Gestor de presupuestos semanales en React
 
 ## Live: https://gestor-presupuesto-semanal.netlify.app/
 
