@@ -1,5 +1,15 @@
 # Gestor de presupuestos semanales en React
 
+## Aquí seleccionas tu presupuesto semanal:
+
+![imagen de gestor](gestor1.jpg)
+
+## Aquí agregas tus gastos:
+
+![imagen de gestor](gestor2.jpg)
+
+### El restante va cambiando de Verde cuando tiene más del 75% a Rojo, menos del 25%.
+
 ## Live: https://gestor-presupuesto-semanal.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
