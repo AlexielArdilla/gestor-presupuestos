@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Gestor de presupuestos semanales e React
+
+## Live: https://gestor-presupuesto-semanal.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
